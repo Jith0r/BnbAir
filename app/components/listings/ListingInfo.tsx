@@ -75,7 +75,7 @@ const ListingInfo: React.FC<ListingInfoProps> = ({
             )}
             <hr />
             <div className='text-lg font-light text-neutral-500'>
-                <h1 className='text-2xl'>Description de l'annonce</h1>
+                <h1 className='text-2xl'>Description du logement</h1>
                 {description}
             </div>
             <hr />
