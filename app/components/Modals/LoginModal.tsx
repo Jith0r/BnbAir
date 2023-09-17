@@ -90,6 +90,7 @@ const LoginModal = () => {
                 disabled={isLoading}
                 register={register}
                 errors={errors}
+                type="password"
                 required
             />
         </div>
