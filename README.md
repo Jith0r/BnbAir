@@ -4,7 +4,7 @@ FullStack avec NextJS, Next-Auth, Prisma, MongoDB & Tailwind
 ![alt text](https://i.ibb.co/BzRzd59/airbnb.png)
 
 
-> <b>Les fonctionnalités :</b>
+> <b>Les fonctionnalités </b>
 
 TailwindCSS <br/>
 Responsive <br/>
