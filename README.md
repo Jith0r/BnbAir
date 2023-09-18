@@ -25,5 +25,3 @@ Calcul du prix <br/>
 Algorithme de recherche avancée par catégorie, plage de dates, emplacement sur la carte, nombre d'invités, chambres et salles de bains <br/>
 Par exemple, nous filtrerons les propriétés qui ont une réservation dans la plage de dates souhaitée pour voyager. <br/>
 Système de favoris (ajouter une annonce en favoris) <br/>
-
-Lien : https://unkn0w-ind-bnb.vercel.app/
