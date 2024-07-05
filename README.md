@@ -1,7 +1,6 @@
 # BnbAir est un projet AirBNB Clone<br>
 FullStack avec NextJS, Next-Auth, Prisma, MongoDB & Tailwind
 
-![alt text](https://i.ibb.co/BzRzd59/airbnb.png)
 
 
 > <b>Les fonctionnalités </b>
